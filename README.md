@@ -23,6 +23,7 @@ Brain regions, correlation direction:
 - Right OrIFG orbital part of the inferior frontal gyrus, -
 - Left PoG postcentral gyrus, -
 - Left FRP frontal pole, +
+
 Behaviors:
 - 3. Need for Stimulation/Proneness to Boredom
 - 10. Poor Behavioral Controls
