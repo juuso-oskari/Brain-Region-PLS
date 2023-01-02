@@ -1,7 +1,9 @@
-# Brain-Region-PLS
+# Data and methods
 Psychopathy is an antisocial personality disorder that is highly correlated with crime and violence. Psychopathy Check List Revised (PCL-R) provides a clinical assessment of the degree of psychopathy that an individual possesses. Specific scoring criteria rate twenty separate items on a three-point scale (0, 1, 2) to determine the extent to which they apply to a given individual. In this analysis we do Partial-Least-Squares (PLS) analysis on sMRI images of PCL-R assessed forensic patients, to see if there exists reliable biomarkers that correlate with the subscores of the PCL-R. Sample size is 51. As preprocessing, grey matter (GM) images are segmented from the sMRI images with SPM software. Then, regional volumes are calculated from the GM images with masks provided also by the SPM software. These regional volumes are then normalized with total GM volume, so that we analyze volumes relative to individuals total GM volume instead of analyzing absolute volumes.
 
 PLS aims to find latent components (linear combinations) from both, volume features X and behavior measures Y, that maximally correlate. This is achieved by doing Singular-Value-Decomposition (SVD) on the correlation matrix R which is calculated from normalized X (X0) and normalized Y (Y0) as R = transpose(Y0) * X0.
+
+# Results
 
 ![image](https://user-images.githubusercontent.com/40278371/210245355-de3a4b25-99de-496a-a1f0-506dafdb5b91.png)
 
