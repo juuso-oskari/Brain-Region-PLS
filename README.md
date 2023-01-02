@@ -12,4 +12,19 @@ correlated, which is to say that GM volume tends to decrease in these areas with
 
 ![image](https://user-images.githubusercontent.com/40278371/210245622-dda89ccf-e155-4b7f-8637-ff2fe72dc6f5.png)
 
+# Conclusions
 
+There seems to be a moderate negative correlation between the relative volumes of the following brain regions and the following behavior scoring:
+
+Brain regions, correlation direction:
+- Left MSFG superior frontal gyrus medial segment, -
+- Right OrIFG orbital part of the inferior frontal gyrus, -
+- Left PoG postcentral gyrus, -
+- Left FRP frontal pole, +
+Behaviors:
+- 3. Need for Stimulation/Proneness to Boredom
+- 10. Poor Behavioral Controls
+- 15. Irresponsibility
+
+The findings however are cofounded by the used scanner (especially by the use of Siemens scanner). This means we can't conclude if the differences are due to the antisocial behavior or due to
+different scanners being used.
