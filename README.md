@@ -3,4 +3,13 @@ Psychopathy is an antisocial personality disorder that is highly correlated with
 
 PLS aims to find latent components (linear combinations) from both, volume features X and behavior measures Y, that maximally correlate. This is achieved by doing Singular-Value-Decomposition (SVD) on the correlation matrix R which is calculated from normalized X (X0) and normalized Y (Y0) as R = transpose(Y0) * X0.
 
+![image](https://user-images.githubusercontent.com/40278371/210245355-de3a4b25-99de-496a-a1f0-506dafdb5b91.png)
+
+In the plot, warm areas (red) are positively correlated with behavior scores, which is to say that the GM volume tends to increase with the behavior scores in these areas. Cold areas (blue) are negatively
+correlated, which is to say that GM volume tends to decrease in these areas with increase in behavior scores.
+
+![image](https://user-images.githubusercontent.com/40278371/210245429-e2f43467-7488-48be-9bb8-e66e4a296ee6.png)
+
+![image](https://user-images.githubusercontent.com/40278371/210245622-dda89ccf-e155-4b7f-8637-ff2fe72dc6f5.png)
+
 
