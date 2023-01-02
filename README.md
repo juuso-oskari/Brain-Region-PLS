@@ -25,9 +25,9 @@ Brain regions, correlation direction:
 - Left FRP frontal pole, +
 
 Behaviors:
-- 3. Need for Stimulation/Proneness to Boredom
-- 10. Poor Behavioral Controls
-- 15. Irresponsibility
+- Need for Stimulation/Proneness to Boredom
+- Poor Behavioral Controls
+- Irresponsibility
 
 The findings however are cofounded by the used scanner (especially by the use of Siemens scanner). This means we can't conclude if the differences are due to the antisocial behavior or due to
 different scanners being used.
